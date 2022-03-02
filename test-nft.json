@@ -1,7 +1,7 @@
 {
 	"name": "Asset Name",
 	"description": "Lorem ipsum...",
-	"image": "",
+	"image": "https://raw.githubusercontent.com/JockDaRock/sol-nft-test-000/main/10751428.jpg",
 	"properties": {
 		"simple_property": "example value",
 		"rich_property": {
