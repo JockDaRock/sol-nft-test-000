@@ -19,21 +19,7 @@
     "family": "Rickflare"
   },
   "properties": {
-    "files": [
-      {
-        "uri": "",
-        "type": "image/png"
-      },
-      {
-        "uri": "",
-        "type": "unknown",
-        "cdn": true
-      },
-      {
-        "uri": "",
-        "type": "video/mp4"
-      }
-    ],
+    "simple_property": "example value",
     "category": "image",
     "creators": [
       {
