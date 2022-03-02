@@ -1,1 +1,36 @@
-{"name":"TestingJockArtZO","description":"Generative art on Solana.","image":"https://raw.githubusercontent.com/JockDaRock/sol-nft-test-000/main/10751428.jpg","external_url":"https://github.com/JockDaRock/sol-nft-test-000","attributes":[{"trait_type":"trait1","value":"value1"},{"trait_type":"trait2","value":"value2"}],"properties":{"files":[{"uri":"https://raw.githubusercontent.com/JockDaRock/sol-nft-test-000/main/10751428.jpg","type":"image/png"}],"category":"image","creators":[{"address":"Ax3kx91K2HacmGfgqNNXvHMYYj8MCiSDExmj6AChC3Yr","share":100}]}}
+{
+   "name":"TestingJockArtZO",
+   "description":"Generative art on Solana.",
+   "image":"https://raw.githubusercontent.com/JockDaRock/sol-nft-test-000/main/10751428.jpg",
+   "seller_fee_basis_points":1000,
+   "external_url":"https://github.com/JockDaRock/sol-nft-test-000",
+   "attributes":[
+      {
+         "trait_type":"trait1",
+         "value":"value1"
+      },
+      {
+         "trait_type":"trait2",
+         "value":"value2"
+      }
+   ],
+   "collection":{
+      "name":"Rickflare X NFT",
+      "family":"Rickflare"
+   },
+   "properties":{
+      "files":[
+         {
+            "uri":"https://raw.githubusercontent.com/JockDaRock/sol-nft-test-000/main/10751428.jpg",
+            "type":"image/png"
+         }
+      ],
+      "category":"image",
+      "creators":[
+         {
+            "address":"Ax3kx91K2HacmGfgqNNXvHMYYj8MCiSDExmj6AChC3Yr",
+            "share":100
+         }
+      ]
+   }
+}
