@@ -1,9 +1,9 @@
 {
-  "name": "SolanaArtProject #1",
+  "name": "TestingJockArtZO",
   "description": "Generative art on Solana.",
   "image": "https://raw.githubusercontent.com/JockDaRock/sol-nft-test-000/main/10751428.jpg",
   "animation_url": "",
-  "external_url": "https://example.com",
+  "external_url": "https://github.com/JockDaRock/sol-nft-test-000",
   "attributes": [
     {
       "trait_type": "trait1",
