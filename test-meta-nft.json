@@ -5,7 +5,8 @@
   "creators": [
       {
         "address": "Ax3kx91K2HacmGfgqNNXvHMYYj8MCiSDExmj6AChC3Yr",
-        "share": 100
+        "share": 100,
+        "verified": true
       }
    ],
   "seller_fee_basis_points": 1000
