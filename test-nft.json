@@ -14,15 +14,11 @@
          "value":"value2"
       }
    ],
-   "collection":{
-      "name":"Rickflare X NFT",
-      "family":"Rickflare"
-   },
    "properties":{
       "files":[
          {
             "uri":"https://raw.githubusercontent.com/JockDaRock/sol-nft-test-000/main/10751428.jpg",
-            "type":"image/png"
+            "type":"image/jpg"
          }
       ],
       "category":"image",
