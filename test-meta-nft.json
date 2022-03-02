@@ -1,13 +1,13 @@
 {
-  "name": "TestingJockArtZO",
-  "symbol": "JFNFT",
+  "name": "TestingJockArt0",
+  "symbol": "JFNFT0",
   "uri": "https://raw.githubusercontent.com/JockDaRock/sol-nft-test-000/main/test-nft.json",
+  "seller_fee_basis_points": 100,
   "creators": [
       {
         "address": "Ax3kx91K2HacmGfgqNNXvHMYYj8MCiSDExmj6AChC3Yr",
         "share": 100,
         "verified": true
       }
-   ],
-  "seller_fee_basis_points": 1000
+   ]
 }
